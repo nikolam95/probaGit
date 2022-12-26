@@ -2,3 +2,6 @@ Prva linija koda
 Druga linija koda
 Treca linija koda
 Cetvrta linija koda
+Peta linija koda
+Sesta linija koda
+
